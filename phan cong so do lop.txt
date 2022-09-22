@@ -1,0 +1,20 @@
+1 DoiBong (đội bóng)                                     - Thu
+2 CauThu (cầu thủ)                                       - Thu
+3 BaiViet (bài viết)                                     - T.Em
+4 LichTapLuyenCauThu (lịch tập luyện cầu thủ)            - Thu
+5 TrongTai (trọng tài)                                   - Thu
+6 LichLamViecCuaTrongTai (lịch làm việc của trọng tài)   - Thu
+7 HuanLuyenVien (huấn luyện viên)                        - Thoa
+8 DangKyVangMatTamThoi (đăng ký vắng mặt tạm thời)       - Thoa
+9 BinhLuan (bình luận)                                   - Thoa
+10 NguoiQuanTamBongDa (người quan tâm bóng đá)           - T.Em
+11 Ve (vé)                                               - Thoa
+12 LichSuMuaHang (lịch sửa mua hàng)                     - Lâm
+13 GioHang (giở hàng)                                    - Lâm
+14 TinTucBongDa (tin tức bóng đá)                        - T.Em
+15 SoDoChoNgoi (sơ đồ chỗ ngồi)                          - Lâm
+16 NguoiQuanLySanBong (người quản lý sân bóng)           - Kiệt
+17 QuanTriVien (quản trị viên)                           - T.Em
+18 SanBonh (sân bóng)                                    - Kiệt
+19 GheNgoi                                               - Kiệt
+20 LichThiDauCacDoiBong (lịch thi đấu các đội bóng)      - Kiệt
